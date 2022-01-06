@@ -1,3 +1,6 @@
 # hello-world
 first repository
-This is my first repository on github.
+//<<<<<<< readme-edits
+//This is my first repository on github.
+//=======
+//>>>>>>> main
